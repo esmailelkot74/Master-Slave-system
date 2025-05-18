@@ -19,7 +19,7 @@ Git: For cloning the repository
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/esmailelkot74/Master-Slave-system.git
 cd your-repo-name
 
 
